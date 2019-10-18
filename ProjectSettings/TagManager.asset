@@ -6,6 +6,7 @@ TagManager:
   tags:
   - light
   - button
+  - large objects
   layers:
   - Default
   - TransparentFX
